@@ -31,7 +31,6 @@ System.out.println("Hello World")
 
 -System.out.print("Hello world")
 +System.out.println("hello world!);
-+System.out.printf("hello world!);
 ```
 
 ## Qoutes
